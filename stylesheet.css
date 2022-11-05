@@ -136,7 +136,9 @@ span.highlight {
   overflow: hidden;
   background-color: white;
   font-family: Arial;
-  text-align: center;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
 }
 
 /* Links inside the navbar */
