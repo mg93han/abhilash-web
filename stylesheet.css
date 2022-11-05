@@ -135,6 +135,7 @@ span.highlight {
   overflow: hidden;
   background-color: white;
   font-family: Arial;
+  self-align: center;
 }
 
 /* Links inside the navbar */
